@@ -1,7 +1,6 @@
 # hello-world
-This is my first repository in the GitHub
+This is my first repository on the GitHub
 
-I'm the Master student of Intelligent Systems program
-I study at:
-Peter the Great Saint-Petersburg Polytechnic University
-Graduate School of Cyber-Physical Systems and Control
+
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
